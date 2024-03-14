@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Implicitintent</string>
+    <string name="button_text">Click here to open</string>
+    <string name="hint">Type URL here</string>
+    <string name="display3">Display3</string>
+    
+
+</resources>
